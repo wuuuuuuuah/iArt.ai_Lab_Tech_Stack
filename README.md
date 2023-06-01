@@ -2,7 +2,8 @@
 A place to store useful development logs in iArt.ai Lab
 
 ## How to use
-- Just need to config your environment (conda is recommaned) {pip3 install -r requirements.txt}
+- Just need to config your environment (conda is recommaned) 
+<pre><code> pip3 install -r requirements.txt </code></pre>
 
 ## Framework
 ### Agent Development
