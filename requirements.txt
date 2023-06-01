@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+langchain
+guidance
+transformers
+ipykernel
+unstructured
+beautifulsoup4
+openai
