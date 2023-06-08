@@ -20,6 +20,8 @@ A place to store useful development logs in iArt.ai Lab
 - Content
   - Image to Text with BLIP-2
 ### Model Deployment
+- Content
+  - MNIST Example for illustrating {Training: DataCollection-DataPreprocessing-ModelConstruction-Training-Testing-Save&Load} + {Deployment: 2ONNX-2TensorRT Engine-BatchInference} 
 
 ### VectorStore
 - Content
