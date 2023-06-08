@@ -6,6 +6,9 @@ A place to store useful development logs in iArt.ai Lab
 <pre><code> pip3 install -r requirements.txt </code></pre>
 
 ## Framework
+### Basic Tutorials
+- Content
+  - OpenAI API Calling Tutorial 
 ### Agent Development
 - Content
   - Custom LLM Agent 
@@ -14,7 +17,9 @@ A place to store useful development logs in iArt.ai Lab
   - Tutorial on Guidance
 ### Information Engine
 - Content
-  - Information Engine with Map-Reduce Method
+  - Information Gathering
+  - Recommand Algorithm
+  - Map-Reduce Information Engine
   - One Call Information Engine
 ### MultiModal
 - Content
