@@ -21,6 +21,7 @@ A place to store useful development logs in iArt.ai Lab
   - Recommand Algorithm
   - Map-Reduce Information Engine
   - One Call Information Engine
+  - Side Functions (ex. URL Match ...)
 ### MultiModal
 - Content
   - Image to Text with BLIP-2
