@@ -1,0 +1,7 @@
+cuda-python
+pycuda
+tensorrt
+torch
+torchvision
+torchaudio
+ipykernel
