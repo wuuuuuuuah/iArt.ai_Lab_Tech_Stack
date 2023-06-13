@@ -4,6 +4,9 @@ A place to store useful development logs in iArt.ai Lab
 ## How to use
 - Just need to config your environment (conda is recommaned) 
 <pre><code> pip3 install -r requirements.txt </code></pre>
+- If you are trying to work on "Model Deployment", use the requirements in model_deployment
+<pre><code>cd ./model_deployment
+pip3 install -r requirements.txt </code></pre>
 
 ## Framework
 ### Basic Tutorials
@@ -27,7 +30,7 @@ A place to store useful development logs in iArt.ai Lab
   - Image to Text with BLIP-2
 ### Model Deployment
 - Content
-  - MNIST Example for illustrating {Training: DataCollection-DataPreprocessing-ModelConstruction-Training-Testing-Save&Load} + {Deployment: 2ONNX-2TensorRT Engine-BatchInference} 
+  - MNIST Example for illustrating {Traning} & {Deployment on TRT}
 
 ### VectorStore
 - Content
