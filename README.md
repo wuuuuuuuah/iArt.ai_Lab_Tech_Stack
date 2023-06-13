@@ -34,4 +34,6 @@ pip3 install -r requirements.txt </code></pre>
 
 ### VectorStore
 - Content
+  - Files Loader
+  - VectorStore Construction
   - Questions & Answers Over a VectorStore (Basically interacting with Uploaded Files)
