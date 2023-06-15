@@ -4,8 +4,9 @@ A place to store useful development logs in iArt.ai Lab
 ## How to use
 - Just need to config your environment (conda is recommaned) 
 <pre><code> pip3 install -r requirements.txt </code></pre>
-- If you are trying to work on "Model Deployment", use the requirements in model_deployment
-<pre><code>cd ./model_deployment
+- If you are trying to work on "Specific Place", use the requirements in that place
+<pre><code>Specific_Place=...
+cd ./$Specific_Place
 pip3 install -r requirements.txt </code></pre>
 
 ## Framework
@@ -31,6 +32,9 @@ pip3 install -r requirements.txt </code></pre>
 ### Model Deployment
 - Content
   - MNIST Example for illustrating {Traning} & {Deployment on TRT}
+  - LLaMA Space (for the future work like fine-tuning, deployment etc.)
+    - tutorial
+    - gen 
 
 ### VectorStore
 - Content
